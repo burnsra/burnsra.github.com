@@ -1,15 +1,12 @@
 ---
 layout: default
+title: "Blog"
 ---
 
-<p class="intro">
-  Hi! <a href="/about">I'm Bob</a>, and I use this site to collect my thoughts about life as a husband, father, engineer, and hobby farmer.
-</p>
-
-<hr />
+<p class="intro">Blog entries focused on both personal events and technology / development subjects.</p>
 
 <div class="listing">
-{% for post in site.posts %}
+{% for post in site.categories['blog'] %}
   {% if post.type == 'link' %}
     <div class="post other link">
       <a class="icon" href="{{ post.url }}" title="This is a link elsewhere">★</a>

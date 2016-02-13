@@ -11,9 +11,6 @@ email: contact@robertburns.me
 description: Site for myself, Robert Burns (burnsra), to discuss life and development
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://robertburns.me" # the base hostname & protocol for your site
-twitter_username: burnsra
-github_username:  burnsra
-
 # Build settings
 markdown: kramdown
 highlighter: rouge
