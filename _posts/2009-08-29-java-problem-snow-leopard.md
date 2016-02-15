@@ -10,7 +10,7 @@ summary: Solution to possible problems with java on Snow Leopard.
 
 ***
 
-I heard earlier via twitter that some have had trouble with the ColdFusion 8 Installer on Apple's latest version of OS X, Snow Leopard.  I also ran into some issues with the Juniper Odyssey wireless access client which was related to this.  Below is the Java 1.5 version from Leopard for use on Snow Leopard. First grab the download here: http://dl.getdropbox.com/u/80181/blog/java.1.5.0-leopard.tar.gz Then, in terminal:
+I heard earlier via twitter that some have had trouble with the ColdFusion 8 Installer on Apple's latest version of OS X, Snow Leopard.  I also ran into some issues with the Juniper Odyssey wireless access client which was related to this.  Below is the Java 1.5 version from Leopard for use on Snow Leopard. First grab the download [here](http://dl.getdropbox.com/u/80181/blog/java.1.5.0-leopard.tar.gz). Then, in terminal:
 
 {% highlight shell %}
 cd /tmp  
