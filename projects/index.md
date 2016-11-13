@@ -7,4 +7,8 @@ title: Projects
 
 ## [SquidBar](http://github.com/burnsra/SquidBar)
 
-An OSX application that runs in the menu bar to control a local squid proxy instance.
+An MacOS application that runs in the menu bar to control a local squid proxy instance.
+
+## [SwiftTemplate](http://github.com/burnsra/SwiftTemplate)
+
+A MacOS application template, written in Swift, which provides a start for a menubar application.
